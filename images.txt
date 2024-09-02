@@ -1,4 +1,1 @@
-docker pull weizhanjun/v2raya
-#支持私库
-#支持指定架构
-
+laoyutang/clash-and-dashboard
